@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Data Processing Script for Customer Analytics
-This script processes customer transaction data and generates reports.
-"""
-
 import csv
 import json
 import logging
